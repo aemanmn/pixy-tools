@@ -1,0 +1,1 @@
+my filese name are ATSChecker.jsx BlogTitleImprover.jsx  CurrencyConverter.jsx  HashtagGenerator.jsx Home.jsx  ImageCompressor.jsx  InstagramCaption.jsx Navbar.jsx ToolsDashboard.jsx WordToPDF.jsx  and these files are inside pages folder which is inside src folder now correct the code
