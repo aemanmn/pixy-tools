@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /server/
+Allow: /
+
+Sitemap: https://pixytools.digital/sitemap.xml
