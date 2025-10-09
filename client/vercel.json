@@ -1,9 +1,16 @@
 {
+  "projects": [],
   "builds": [
-    { "src": "vite.config.js", "use": "@vercel/static-build" }
+    {
+      "src": "client/vite.config.js",
+      "use": "@vercel/static-build",
+      "config": {}
+    }
   ],
   "routes": [
     { "handle": "filesystem" },
-    { "src": "/.*", "dest": "/" }
-  ]
+    { "src": "/.*", "dest": "/client/index.html" }
+  ],
+  "framework": "vite",
+  "rootDirectory": "client"
 }
